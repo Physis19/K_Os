@@ -3,6 +3,7 @@ bits 16
 
 %define ENDL 0x0D, 0x0A
 
+;prints a string to the screen
 
 ; FAT12 HEADER
 
